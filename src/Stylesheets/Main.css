@@ -1,0 +1,32 @@
+main{
+    text-align: center;
+}
+
+
+
+main h1{
+    color: #293264;
+}
+
+main p{
+    width: 400px;
+    margin: 0.2rem auto 2rem auto;
+}
+
+button{
+    padding: 0.6rem 2rem;
+    border: none;
+    font-family: inherit;
+    font-weight: 500;
+    color: white;
+    background-color: #4D5B9E;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
+
+button:hover{
+    color: #4D5B9E;
+    background-color: wheat;
+}

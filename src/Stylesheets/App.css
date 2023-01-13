@@ -1,0 +1,24 @@
+.container{
+  border-radius: 20px;
+  width: 650px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #F5F7FB;
+}
+
+.results-display p{
+      color: #293299;
+      font-weight: bold;
+}
+.results-display{
+  width: max-content;
+  margin: 0 auto;
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
