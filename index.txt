@@ -1,1 +1,3 @@
 Conflicts text
+
+This is edited text from another user.
