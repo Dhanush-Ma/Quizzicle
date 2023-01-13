@@ -1,1 +1,3 @@
 Conflicts text
+
+This is my user text
