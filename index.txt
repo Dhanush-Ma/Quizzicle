@@ -1,4 +1,0 @@
-Conflicts text
-
-This is my user text
-This is edited text from another user.
