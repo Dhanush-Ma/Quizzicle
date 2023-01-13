@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quizzicle/static/css/main.22031467.css",
+    "main.js": "/Quizzicle/static/js/main.a5558bbd.js",
+    "index.html": "/Quizzicle/index.html",
+    "main.22031467.css.map": "/Quizzicle/static/css/main.22031467.css.map",
+    "main.a5558bbd.js.map": "/Quizzicle/static/js/main.a5558bbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22031467.css",
+    "static/js/main.a5558bbd.js"
+  ]
+}
